@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
