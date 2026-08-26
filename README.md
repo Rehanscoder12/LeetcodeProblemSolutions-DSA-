@@ -38,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
