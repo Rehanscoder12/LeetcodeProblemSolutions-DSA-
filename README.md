@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
