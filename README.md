@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
@@ -122,5 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
 <!---LeetCode Topics End-->
