@@ -131,5 +131,10 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0203-remove-linked-list-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
