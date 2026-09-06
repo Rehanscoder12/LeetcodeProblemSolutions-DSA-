@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
