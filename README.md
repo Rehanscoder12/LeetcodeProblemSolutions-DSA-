@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0238-product-of-array-except-self) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0203-remove-linked-list-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
