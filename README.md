@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
 ## Linked List
@@ -146,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
