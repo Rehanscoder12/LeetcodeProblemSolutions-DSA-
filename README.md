@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
 ## Linked List
 |  |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
