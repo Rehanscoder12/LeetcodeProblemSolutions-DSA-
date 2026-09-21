@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | ------- |
 | [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
@@ -164,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
