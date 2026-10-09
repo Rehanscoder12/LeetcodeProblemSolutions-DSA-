@@ -169,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
