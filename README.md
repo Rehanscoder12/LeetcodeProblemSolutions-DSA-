@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
