@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0209-minimum-size-subarray-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
