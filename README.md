@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0145-binary-tree-postorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
