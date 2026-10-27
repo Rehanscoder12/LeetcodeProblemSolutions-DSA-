@@ -1,7 +1,8 @@
 class StockSpanner {
-    private Stack<int []>st;
+    public  Stack<int[]>st;
     public StockSpanner() {
         st=new Stack<>();
+        
     }
     
     public int next(int price) {
@@ -10,8 +11,9 @@ class StockSpanner {
             span+=st.peek()[1];
             st.pop();
         }
-        st.push(new int[]{price,span});
+        st.push(new int []{price,span});
         return span;
+        
     }
 }
 
