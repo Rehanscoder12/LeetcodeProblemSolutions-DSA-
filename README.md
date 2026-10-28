@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0739-daily-temperatures) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0209-minimum-size-subarray-sum](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
