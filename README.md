@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
