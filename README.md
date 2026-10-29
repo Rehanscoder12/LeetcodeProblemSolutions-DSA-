@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0238-product-of-array-except-self](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0347-top-k-frequent-elements](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0890-find-and-replace-pattern) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 | [0094-binary-tree-inorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created by Reh
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Rehanscoder12/LeetcodeProblemSolutions-DSA-/tree/master/0901-online-stock-span) |
 ## Data Stream
